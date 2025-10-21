@@ -1,0 +1,4 @@
+flask
+easyocr==1.4
+opencv-python-headless==4.5.2.8
+numpy
